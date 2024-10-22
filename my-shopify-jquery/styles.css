@@ -1,0 +1,99 @@
+/* Swiper navigation buttons */
+.swiper-button-next,
+.swiper-button-prev {
+  position: static; /* Static positioning */
+  display: inline-block; /* Inline block display */
+}
+
+/* Hover effect for Swiper navigation buttons */
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  color: blue; /* Change color to blue on hover */
+}
+
+/* Swiper pagination bullet styling */
+.swiper-pagination-bullet {
+  background-color: blue; /* Blue background for pagination bullets */
+}
+
+/* Active Swiper pagination bullet styling */
+.swiper-pagination-bullet-active {
+  background-color: blue; /* Blue background for active pagination bullets */
+}
+
+/* Heading styling */
+.heading {
+  font-size: 1.5rem; /* Font size */
+  font-weight: bold; /* Bold font weight */
+  margin-bottom: 20px; /* Bottom margin */
+  color: #000000; /* Black color */
+  display: flex; /* Flex display */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+/* Subtitle styling */
+.subtitle {
+  margin: 20px 20px 0px; /* Margin */
+  font-size: 1rem; /* Font size */
+  text-align: left; /* Left text alignment */
+  line-height: 1.5; /* Line height */
+}
+
+/* Subsubtitle styling */
+.subsubtitle {
+  margin: 0px 20px 20px; /* Margin */
+  font-size: 0.8rem; /* Font size */
+  text-align: left; /* Left text alignment */
+  line-height: 1.5; /* Line height */
+}
+
+/* Image container styling */
+.image-container {
+  height: 80vh; /* Height */
+  display: flex; /* Flex display */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  position: relative; /* Relative positioning */
+}
+
+/* Image styling within the image container */
+.image-container img {
+  max-height: 100%; /* Maximum height */
+  max-width: 100%; /* Maximum width */
+  object-fit: cover; /* Cover object fit */
+}
+
+/* Text overlay styling */
+.text-overlay {
+  position: absolute; /* Absolute positioning */
+  bottom: 0; /* Position at the bottom */
+  width: 90%; /* Width */
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+  color: white; /* White text color */
+  padding: 0px; /* No padding */
+}
+
+/* HTML element styling */
+html {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui,
+    helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial,
+    sans-serif; /* Font family */
+}
+
+/* Container styling */
+.container {
+  max-width: 800px; /* Maximum width */
+  height: 80vh; /* Height */
+  margin: auto; /* Center horizontally */
+}
+
+/* CSS variables for Swiper */
+:root {
+  --swiper-pagination-bullet-size: 20px; /* Pagination bullet size */
+  --swiper-navigation-size: 28px; /* Navigation button size */
+  --swiper-pagination-bottom: 20px; /* Pagination bottom position */
+  --swiper-theme-color: #fff; /* Theme color */
+  --swiper-pagination-bullet-inactive-color: #fff; /* Inactive bullet color */
+  --swiper-pagination-bullet-inactive-opacity: 0.3; /* Inactive bullet opacity */
+}

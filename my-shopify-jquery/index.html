@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Swiper Slider App</title>
+    <!-- SwiperJS CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/swiper/swiper-bundle.min.css"
+    />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <p class="heading">Wunderschön - Ergebnisse unserer Kunden</p>
+
+      <!-- Swiper Slider Container -->
+      <div class="swiper">
+        <div class="swiper-wrapper">
+          <!-- Slide 1 -->
+          <div
+            class="swiper-slide image-container"
+            data-product-id="product1"
+            onclick="redirectToProduct(this)"
+          >
+            <img src="images/image1.png" alt="" />
+            <div class="text-overlay">
+              <p class="subtitle">Super Solid Glass - Glanz</p>
+              <p class="subsubtitle">Polierter Onyxmarmor</p>
+            </div>
+          </div>
+          <!-- Slide 2 -->
+          <div
+            class="swiper-slide image-container"
+            data-product-id="product2"
+            onclick="redirectToProduct(this)"
+          >
+            <img src="images/image2.png" alt="" />
+            <div class="text-overlay">
+              <p class="subtitle">Super Solid Glass - Glanz</p>
+              <p class="subsubtitle">Polierter Onyxmarmor</p>
+            </div>
+          </div>
+          <!-- Slide 3 -->
+          <div
+            class="swiper-slide image-container"
+            data-product-id="product3"
+            onclick="redirectToProduct(this)"
+          >
+            <img src="images/image3.png" alt="" />
+            <div class="text-overlay">
+              <p class="subtitle">Super Solid Glass - Glanz</p>
+              <p class="subsubtitle">Polierter Onyxmarmor</p>
+            </div>
+          </div>
+          <!-- Slide 4 -->
+          <div
+            class="swiper-slide image-container"
+            data-product-id="product4"
+            onclick="redirectToProduct(this)"
+          >
+            <img src="images/image4.png" alt="" />
+            <div class="text-overlay">
+              <p class="subtitle">Super Solid Glass - Glanz</p>
+              <p class="subsubtitle">Polierter Onyxmarmor</p>
+            </div>
+          </div>
+          <!-- Slide 5 -->
+          <div
+            class="swiper-slide image-container"
+            data-product-id="product5"
+            onclick="redirectToProduct(this)"
+          >
+            <img src="images/image5.png" alt="" />
+            <div class="text-overlay">
+              <p class="subtitle">Super Solid Glass - Glanz</p>
+              <p class="subsubtitle">Polierter Onyxmarmor</p>
+            </div>
+          </div>
+        </div>
+        <!-- Swiper Navigation and Pagination -->
+        <div class="swiper-navigation-pagination-container">
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-pagination"></div>
+          <div class="swiper-button-next"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- jQuery Library -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- SwiperJS Library -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <!-- Custom JavaScript -->
+    <script src="script.js"></script>
+    <script>
+      // Function to redirect to the product page
+      function redirectToProduct(element) {
+        const productId = element.getAttribute("data-product-id");
+        window.location.href = `/product/${productId}`;
+      }
+    </script>
+  </body>
+</html>
