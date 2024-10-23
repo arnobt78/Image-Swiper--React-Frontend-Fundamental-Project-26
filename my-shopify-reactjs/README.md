@@ -1,5 +1,7 @@
 ## My Shopify ReactJS Project
 
+<img width="664" alt="reactjs" src="https://github.com/user-attachments/assets/f539f58d-8cba-4479-8735-81eca53fe5f9">
+
 ## Project Overview
 
 This project is a ReactJS application that features an image slider and product pages. It uses the Swiper library for the image slider and React Router for navigation between the image slider and product pages.
