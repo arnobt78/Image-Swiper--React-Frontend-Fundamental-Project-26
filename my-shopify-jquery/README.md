@@ -1,3 +1,6 @@
+
+<img width="742" alt="jquery" src="https://github.com/user-attachments/assets/35f0e249-9e1d-4d01-ac4d-1718e05ff278">
+
 ## Project Documentation: Swiper Slider with Shopify Integration
 
 ## Overview
