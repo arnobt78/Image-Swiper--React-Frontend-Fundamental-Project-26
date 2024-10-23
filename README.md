@@ -6,7 +6,7 @@ The section is a slider of multiple images, each of these images can have a prod
 
 ## Project Overview
 
-I couldn't do it properly as the requirement was to use the SwiperJS library to display the navigation left and right arrow courser below the image and display the pagination dots placed in between the navigation arrows (like < . . . > )
+I couldn't do it properly as the requirement was to use the SwiperJS library to display the navigation left and right arrow courser below the image and display the pagination dots placed in between the navigation arrows ( < . . . > )
 
 I tried in many different ways and achieved the result in many ways, but unfortunately not exactly that < . . . > way!
 
