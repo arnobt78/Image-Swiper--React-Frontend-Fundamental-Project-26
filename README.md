@@ -2,6 +2,8 @@
 
 The section is a slider of multiple images, each of these images can have a product and a metaobject item connected to it, and if any of these boxes are clicked then you will be redirected to that product page. For the slider use the SwiperJs component, with the navigation points and arrows. The settings that are needed should be in the shopify schema and accessable through the Theme Customizer.
 
+<img width="591" alt="task" src="https://github.com/user-attachments/assets/cd00d5bd-7a4f-4337-bc5d-457e590cfdd2">
+
 ## Project Overview
 
 I couldn't do it properly as the requirement was to use the SwiperJS library to display the navigation left and right arrow courser below the image and display the pagination dots placed in between the navigation arrows (like < . . . > )
