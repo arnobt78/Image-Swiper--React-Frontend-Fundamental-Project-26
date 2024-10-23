@@ -1,9 +1,11 @@
 
+
+
+## Swiper Slider with Shopify Integration
+
 <img width="742" alt="jquery" src="https://github.com/user-attachments/assets/35f0e249-9e1d-4d01-ac4d-1718e05ff278">
 
-## Project Documentation: Swiper Slider with Shopify Integration
-
-## Overview
+## Project Overview
 
 This project implements a SwiperJS slider in a Shopify theme. The slider displays multiple images, each linked to a product page. The slider includes navigation arrows and pagination bullets, with settings accessible through the Shopify Theme Customizer.
 
