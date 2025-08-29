@@ -1,6 +1,6 @@
 # Shopify Style Image Swiper Slider (React)
 
-![reactjs](https://github.com/user-attachments/assets/f539f58d-8cba-4479-8735-81eca53fe5f9)
+<img width="731" height="544" alt="Screenshot 2025-08-30 at 00 21 57" src="https://github.com/user-attachments/assets/6bbc1d99-71ce-4b60-ba2c-be9a5b5d3bd6" />
 
 ---
 
