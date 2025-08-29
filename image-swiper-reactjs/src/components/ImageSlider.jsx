@@ -80,7 +80,7 @@ const ImageSlider = () => {
                     </p>
                     <p
                       style={{
-                        margin: "0px 20px 20px",
+                        margin: "0px 20px 10px",
                         fontSize: "0.8rem",
                         textAlign: "left",
                         lineHeight: "1.5",
@@ -94,8 +94,9 @@ const ImageSlider = () => {
             ))}
           </Swiper>
           <div className="swiper-navigation"></div>
-          <div className="swiper-pagination"></div>
         </div>
+        {/* Pagination is now below the image but outside the image area */}
+        <div className="swiper-pagination below-image-pagination"></div>
       </div>
     </div>
   );

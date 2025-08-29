@@ -8,7 +8,7 @@ import ProductPage from "./components/ProductPage";
 function App() {
   return (
     // Router component to handle routing
-    <Router>
+    <Router future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
       {/* Routes component to define the different routes */}
       <Routes>
         {/* Route for the home page, rendering the ImageSlider component */}
