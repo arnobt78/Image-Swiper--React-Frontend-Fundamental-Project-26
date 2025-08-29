@@ -1,6 +1,6 @@
 # Shopify Style Image Swiper Slider - jQuery, SwiperJS Tutorial
 
-<img width="837" height="640" alt="Screenshot 2025-08-29 at 23 20 24" src="https://github.com/user-attachments/assets/50f1080f-9b35-4e29-bb04-2196230ad271" />
+![Screenshot 2025-08-29 at 23 20 24](https://github.com/user-attachments/assets/50f1080f-9b35-4e29-bb04-2196230ad271)
 
 ---
 
