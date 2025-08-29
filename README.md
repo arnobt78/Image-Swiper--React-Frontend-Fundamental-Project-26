@@ -1,5 +1,9 @@
 # Shopify Style Image Swiper Slider - jQuery, React, SwiperJS Project Tutorial
 
+![jquery](https://github.com/user-attachments/assets/35f0e249-9e1d-4d01-ac4d-1718e05ff278)
+
+![reactjs](https://github.com/user-attachments/assets/f539f58d-8cba-4479-8735-81eca53fe5f9)
+
 ---
 
 ## Project Overview
