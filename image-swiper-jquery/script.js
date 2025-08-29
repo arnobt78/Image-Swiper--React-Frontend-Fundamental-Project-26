@@ -1,6 +1,6 @@
 $(document).ready(function () {
   // Initialize Swiper
-  var swiper = new Swiper(".swiper", {
+  var swiper = new swiper(".swiper", {
     // Pagination settings
     pagination: {
       clickable: false, // Disable clickable pagination bullets
