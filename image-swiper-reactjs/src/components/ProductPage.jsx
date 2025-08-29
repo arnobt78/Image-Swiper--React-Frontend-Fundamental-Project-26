@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 // Import useParams hook from React Router to access URL parameters
 import { useParams } from "react-router-dom";

@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 
 // Import Swiper core and required modules
@@ -40,13 +41,16 @@ const ImageSlider = () => {
   };
 
   // Destructure slider settings from the configuration
+  // eslint-disable-next-line no-unused-vars
   const { navigation, pagination, spaceBetween, slidesPerView } =
     shopifySchema.sliderSettings;
 
   return (
     <div className="outer-container">
       <div className="inner-container">
-        <h2 className="heading">Wunderschön - Ergebnisse unserer Kunden</h2>
+        <h2 className="heading">
+          Shopify Style Image Swiper Slider using ReactJS and SwiperJS
+        </h2>
         <div className="swiper-container">
           <Swiper
             modules={[Navigation, Pagination, Scrollbar, A11y]}
