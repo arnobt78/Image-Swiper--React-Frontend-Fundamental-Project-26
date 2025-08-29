@@ -49,7 +49,9 @@
   </head>
   <body>
     <div class="container">
-      <p class="heading">Image Swiper Slider - Shopify Style</p>
+      <p class="heading">
+        Shopify Style Image Swiper Slider using jQuery and SwiperJS
+      </p>
 
       <!-- Swiper Slider Container -->
       <div class="swiper">
@@ -131,10 +133,10 @@
     <!-- Custom JavaScript -->
     <script src="script.js"></script>
     <script>
-      // Function to redirect to the product page
+      // Function to update the URL hash instead of redirecting
       function redirectToProduct(element) {
         const productId = element.getAttribute("data-product-id");
-        window.location.href = `/product/${productId}`;
+        window.location.hash = productId;
       }
     </script>
   </body>
