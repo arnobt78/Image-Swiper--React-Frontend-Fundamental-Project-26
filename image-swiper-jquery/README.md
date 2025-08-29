@@ -1,4 +1,4 @@
-# Shopify Style Image Swiper Slider - jQuery, SwiperJS Tutorial
+# Shopify Style Image Swiper Slider - jQuery, SwiperJS Project Tutorial
 
 ![Screenshot 2025-08-29 at 23 20 24](https://github.com/user-attachments/assets/50f1080f-9b35-4e29-bb04-2196230ad271)
 
@@ -7,6 +7,8 @@
 ## Project Overview
 
 A modern, responsive image swiper slider inspired by Shopify, built using jQuery and SwiperJS. This project demonstrates how to create a sleek, interactive product gallery with smooth navigation, pagination, and custom styling. Perfect for e-commerce, portfolios, or any site needing a beautiful image slider.
+
+- **jQuery Swiper Live-Demo:** [https://image-slider-jquery-swiperjs.netlify.app/](https://image-slider-jquery-swiperjs.netlify.app/)
 
 ---
 

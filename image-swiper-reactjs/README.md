@@ -1,12 +1,14 @@
-# Shopify Style Image Swiper Slider (React)
+# Shopify Style Image Swiper Slider - React, SwiperJS, Vite Project Tutorial
 
-<img width="731" height="544" alt="Screenshot 2025-08-30 at 00 21 57" src="https://github.com/user-attachments/assets/6bbc1d99-71ce-4b60-ba2c-be9a5b5d3bd6" />
+![Screenshot 2025-08-30 at 00 21 57](https://github.com/user-attachments/assets/6bbc1d99-71ce-4b60-ba2c-be9a5b5d3bd6)
 
 ---
 
 ## Project Overview
 
 A modern, responsive image swiper slider inspired by Shopify, built with React, SwiperJS, and Vite. This project demonstrates how to create a sleek, interactive product gallery with smooth navigation, pagination, and custom styling. Perfect for e-commerce, portfolios, or any site needing a beautiful image slider.
+
+- **React Swiper Live-Demo:** [https://image-slider-react-swiperjs.netlify.app/](https://image-slider-react-swiperjs.netlify.app/)
 
 ---
 
@@ -24,7 +26,7 @@ A modern, responsive image swiper slider inspired by Shopify, built with React, 
 
 ## Project Structure
 
-```text
+```bash
 image-swiper-reactjs/
 ├── public/                # Static assets (images, favicon)
 │   ├── image1.png

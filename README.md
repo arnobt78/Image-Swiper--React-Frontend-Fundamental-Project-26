@@ -1,8 +1,8 @@
 # Shopify Style Image Swiper Slider - jQuery, React, SwiperJS Project Tutorial
 
-![jquery](https://github.com/user-attachments/assets/35f0e249-9e1d-4d01-ac4d-1718e05ff278)
+![Screenshot 2025-08-29 at 23 20 24](https://github.com/user-attachments/assets/50f1080f-9b35-4e29-bb04-2196230ad271)
 
-![reactjs](https://github.com/user-attachments/assets/f539f58d-8cba-4479-8735-81eca53fe5f9)
+![Screenshot 2025-08-30 at 00 21 57](https://github.com/user-attachments/assets/6bbc1d99-71ce-4b60-ba2c-be9a5b5d3bd6)
 
 ---
 
@@ -11,7 +11,12 @@
 This repository contains two educational projects that demonstrate how to build a modern, responsive image swiper slider inspired by Shopify:
 
 - **image-swiper-jquery**: A static HTML/CSS/JS project using jQuery and SwiperJS.
+
+- **jQuery Swiper Live-Demo:** [https://image-slider-jquery-swiperjs.netlify.app/](https://image-slider-jquery-swiperjs.netlify.app/)
+
 - **image-swiper-reactjs**: A modern React app using SwiperJS, React Router, and Vite.
+
+- **React Swiper Live-Demo:** [https://image-slider-react-swiperjs.netlify.app/](https://image-slider-react-swiperjs.netlify.app/)
 
 Both projects are designed for learning, teaching, and easy integration into your own web projects.
 
